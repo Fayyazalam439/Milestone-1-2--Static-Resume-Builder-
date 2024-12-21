@@ -10,15 +10,3 @@ skillsButton.addEventListener('click', function () {
         skillsButton.textContent = 'Show Skills';
     }
 });
-// const skillsButton = document.getElementById('skills-button') as HTMLElement;
-// const skillsDiv = document.getElementById('skills') as HTMLElement;
-// if (skillsButton && skillsDiv) {
-//     skillsDiv.style.display = "block";
-//     skillsButton.addEventListener('click', () => {
-//         if (skillsDiv.style.display === "block") {
-//             skillsDiv.style.display = "none";
-//         } else {
-//             skillsDiv.style.display = "block";
-//         }
-//     });
-// }
